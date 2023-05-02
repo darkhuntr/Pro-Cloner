@@ -34,7 +34,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ rm -rf Pro-Cloner
+$ rm -rf darkhuntr
 
 $ git clone https://github.com/$ pkg update
 
