@@ -56,7 +56,7 @@ $ pip install rich
 
 $ rm -rf Pro-Cloner
 
-$ git clone https://github.com/darkhuntr/darkhuntr.git
+$ git clone https://github.com/DARK-WEB/darkhuntr.git
 
 $ cd darkhuntr 
 
